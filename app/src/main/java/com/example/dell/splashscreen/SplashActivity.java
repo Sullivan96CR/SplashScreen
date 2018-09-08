@@ -50,4 +50,9 @@ public class SplashActivity extends AppCompatActivity {
     public void AgregarMetodoPrueba(){
         String hola = "Esto es una prueba de agregar un metodo para ver si se refleja en git";
     }
+
+    public void HolaEvans(){
+        String msj = "hola papu :v";
+    }
+
 }
