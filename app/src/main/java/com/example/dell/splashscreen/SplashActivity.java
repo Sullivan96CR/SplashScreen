@@ -47,8 +47,4 @@ public class SplashActivity extends AppCompatActivity {
         timer.start();
     }
 
-    public void x(){
-
-    }
-
 }
